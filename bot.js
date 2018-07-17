@@ -300,8 +300,8 @@ client.on("message", message => {
 	if (message.content === ";help") {
 	message.channel.send('`**Hi my commands in your DMs !**')
 	 const embed = new Discord.RichEmbed()
-		 .setColor('Green')
-		 .setFooter('By [Eriep] And [Wiseman]')
+		 .setColor('#1bcfb0')
+		 .setFooter('By [Night Blade] And [Larpraz]')
 		 .setThumbnail(message.author.avatarURL)
 		 .setDescription(`
    +[ ---------------------------- ]+
