@@ -21,7 +21,7 @@ const queue = new Map();
 
 client.on('ready', () => {
   console.log(`Logged in as ${client.user.tag}!`);
-client.user.setGame(`L&N Dating Gamers |;help`,"http://twitch.tv/S-F")
+client.user.setGame(`By Luca Changretta |;help`,"http://twitch.tv/S-F")
   console.log('')
   console.log('')
   console.log('+[-----------------------------------------------------------------]+')
