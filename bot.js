@@ -46,7 +46,7 @@ client.user.setGame(`L&N Dating Gamers |;help`,"http://twitch.tv/S-F")
 });
 
 
-const developers = ["348555232529219585","444339372884754435"]
+const developers = ["412302921972056066","487314985362391060"]
 const adminprefix = ";";
 client.on('message', message => {
     var argresult = message.content.split(` `).slice(1).join(' ');
